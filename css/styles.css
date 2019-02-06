@@ -108,3 +108,10 @@ a {
 ul.nav a:visited {
 	color: #0096FF
 }
+
+footer {
+	font-size: 0.8em;
+	color: #0096FF;
+	padding-bottom: 1em;
+	text-align: center;
+}
