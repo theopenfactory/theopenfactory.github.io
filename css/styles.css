@@ -69,3 +69,34 @@ main > .tagline {
 	width: 2.65rem;
 	height: 2.65rem;
 }
+
+ul.nav {
+	float: right;
+	padding-top: calc(3.4% - 0.5em);
+	padding-right: 5%;
+	color: #0096FF;
+}
+
+ul.nav > li {
+	display: inline-block;
+	padding-left: 0.5em;
+}
+
+div#about {
+	font-size: 1.5rem;
+	font-weight: 100;
+	margin: 2rem 0;
+}
+
+div#about li {
+	display: inline-block;
+	padding-right: 2em;
+}
+
+div#about i {
+	padding-right: 0.5em;
+}
+
+div#contact {
+	margin: 2rem 0;
+}
