@@ -100,3 +100,11 @@ div#about i {
 div#contact {
 	margin: 2rem 0;
 }
+
+a {
+	text-decoration: none;
+}
+
+ul.nav a:visited {
+	color: #0096FF
+}
