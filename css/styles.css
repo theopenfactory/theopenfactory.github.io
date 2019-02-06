@@ -72,14 +72,14 @@ main > .tagline {
 
 ul.nav {
 	float: right;
-	padding-top: calc(3.4% - 0.5em);
-	padding-right: 5%;
+	margin-top: calc(3% - 0.5em);
+	margin-right: 5%;
 	color: #0096FF;
 }
 
 ul.nav > li {
 	display: inline-block;
-	padding-left: 0.5em;
+	margin-left: 0.5em;
 }
 
 div#about {
@@ -90,11 +90,11 @@ div#about {
 
 div#about li {
 	display: inline-block;
-	padding-right: 2em;
+	margin-right: 2em;
 }
 
 div#about i {
-	padding-right: 0.5em;
+	margin-right: 0.5em;
 }
 
 div#contact {
@@ -112,6 +112,6 @@ ul.nav a:visited {
 footer {
 	font-size: 0.8em;
 	color: #0096FF;
-	padding-bottom: 1em;
+	margin-bottom: 1em;
 	text-align: center;
 }
