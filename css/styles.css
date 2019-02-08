@@ -120,3 +120,9 @@ footer {
 	margin-bottom: 1em;
 	text-align: center;
 }
+
+li.nav-vr {
+    vertical-align: top;
+    min-height: 1.1em;
+    border: 1px solid #0096FF;
+}
