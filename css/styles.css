@@ -122,7 +122,12 @@ footer {
 }
 
 li.nav-vr {
-    vertical-align: top;
-    min-height: 1.1em;
-    border: 1px solid #0096FF;
+	vertical-align: top;
+	min-height: 1.1em;
+	border: 1px solid #0096FF;
+}
+
+.nav-social {
+	color: #0096FF;
+	transform: scale(1.1);
 }
