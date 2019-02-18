@@ -45,7 +45,7 @@ main {
 
 main > .intro {
 	font-family: 'Exo 2', sans-serif;
-	font-size: 3.75em;
+	font-size: 2.75em;
 	font-weight: 600;
 }
 
@@ -99,6 +99,11 @@ div#about i {
 
 div#contact {
 	margin: 2rem 0;
+}
+
+div#contact .cta {
+	font-size: 1.5em;
+	padding-bottom: 1em;
 }
 
 a {
