@@ -110,6 +110,10 @@ a {
 	text-decoration: none;
 }
 
+ul.nav a {
+	color: #0096FF
+}
+
 ul.nav a:visited {
 	color: #0096FF
 }
@@ -138,4 +142,9 @@ li.nav-vr {
 .nav-social {
 	color: #0096FF;
 	transform: scale(1.1);
+}
+
+a.email {
+	border: 0.05em solid #0096FF;
+	padding: 0.25em;
 }
